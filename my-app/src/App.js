@@ -28,63 +28,64 @@ function App() {
 
         <div>
         <p>
-            Stell dir vor, du steigst morgens in ein Auto, das dich nicht nur zur Arbeit bringt, sondern dir auch unterwegs deinen Lieblingskaffee aus der Lieblingscaféteria holt – ganz ohne, dass du einen Finger krümmen musst. Klingt nach Science-Fiction? Nicht mehr lange! Autonome Fahrzeuge, also Autos, die sich ganz von alleine durch den Verkehr navigieren, stehen schon jetzt an der Schwelle, unsere Welt zu revolutionieren. Aber wie genau funktioniert das? Und warum könnten diese Fahrzeuge unser Leben grundlegend verändern?
+            Stell dir vor, du sitzt in deinem Auto und auf der Windschutzscheibe erscheinen nützliche Informationen wie die aktuelle Geschwindigkeit, die optimale Route oder Warnungen vor Gefahren – und das alles, ohne dass du deinen Blick von der Straße nehmen musst. Klingt futuristisch? Dank <strong>Augmented Reality (AR)</strong> ist das keine Science-Fiction, sondern eine Technologie, die unser Fahrerlebnis revolutionieren könnte. Aber was genau ist AR, und wie wird sie in Fahrzeugen eingesetzt?
         </p>
 
         <section>
-            <h2>Was genau sind autonome Fahrzeuge?</h2>
+            <h2>Was ist Augmented Reality?</h2>
             <p>
-                Ein autonomes Fahrzeug ist ein echter Alleskönner: Es sieht, hört und denkt – zumindest ein bisschen. Mithilfe von Kameras, Sensoren, Radaren und einer KI im Hintergrund kann das Auto seine Umgebung wahrnehmen, andere Verkehrsteilnehmer erkennen und blitzschnell Entscheidungen treffen. Kein hektisches Blinken mehr, keine Panik auf glatten Straßen, kein Streit um die Vorfahrt – das Auto regelt alles.
+                AR, also „erweiterte Realität“, beschreibt die Überlagerung der realen Welt mit digitalen Informationen. Anders als bei Virtual Reality, bei der du komplett in eine digitale Welt eintauchst, ergänzt AR deine Umgebung um hilfreiche Inhalte – in Echtzeit und in deinem Sichtfeld. Im Kontext von Fahrzeugen bedeutet das: Dein Auto wird zu einem smarten Begleiter, der dir relevante Informationen direkt vor deinen Augen projeziert.
             </p>
             <p>
-                Die Automatisierung wird dabei in fünf Stufen eingeteilt. Am spannendsten ist natürlich Stufe 5, wo das Fahrzeug völlig selbstständig unterwegs ist – ohne Lenkrad, ohne Pedale, vielleicht sogar ohne Fahrer. Momentan sind wir auf Stufe 2 bis 3 unterwegs: Autos können uns bereits auf der Autobahn beim Spurwechsel helfen oder automatisch einparken, aber wir Menschen haben noch die Zügel in der Hand.
+                Die Umsetzung erfolgt oft über sogenannte <strong>Head-up-Displays (HUDs)</strong>, die Informationen auf die Windschutzscheibe oder ein spezielles Display projizieren. In neueren Konzepten wird die AR-Technologie durch Kameras und Sensoren unterstützt, die das Umfeld analysieren und mit digitalen Daten anreichern.
             </p>
         </section>
 
         <section>
-            <h2>Warum autonome Autos unser Leben verändern könnten</h2>
-            <p>Die Idee ist groß: Autonome Fahrzeuge könnten nicht nur praktisch sein, sondern unsere Welt sicherer, effizienter und sogar umweltfreundlicher machen. Klingt zu gut, um wahr zu sein? Lass uns das mal aufschlüsseln:</p>
+            <h2>Möglichkeiten von AR in Fahrzeugen</h2>
+            <p>Die Einsatzmöglichkeiten von Augmented Reality in Fahrzeugen sind nahezu grenzenlos. Hier sind einige spannende Anwendungsbereiche:</p>
             <ul>
                 <li>
-                    <strong>Weniger Unfälle, mehr Sicherheit:</strong> Hast du gewusst, dass die meisten Verkehrsunfälle durch menschliche Fehler passieren? Müdigkeit, Ablenkung oder schlichtes Übersehen von Verkehrszeichen – all das könnte mit autonomen Autos der Vergangenheit angehören. Ein KI-System wird nie müde und kann in Millisekunden auf gefährliche Situationen reagieren. Das bedeutet weniger Tränen auf den Straßen und eine drastische Reduzierung von Unfallzahlen.
+                    <strong>1. Navigationshilfen direkt im Sichtfeld:</strong> Statt auf ein herkömmliches Navi-Display zu schauen, zeigt dir AR die Route direkt auf der Straße an. Virtuelle Pfeile markieren genau, wo du abbiegen musst, und machen komplizierte Kreuzungen kinderleicht. Keine Ablenkung, kein Rätselraten – einfach entspanntes Fahren.
                 </li>
                 <li>
-                    <strong>Mehr Zeit für das Wesentliche:</strong> Stell dir vor, du sitzt im Auto und musst nicht fahren. Was würdest du mit der zusätzlichen Zeit machen? Ein Buch lesen, deine E-Mails abarbeiten oder einfach die Augen schließen und entspannen? Autonome Fahrzeuge könnten Pendeln in eine Art Mini-Urlaub verwandeln – oder zumindest in produktive Stunden.
+                    <strong>2. Gefahrenwarnungen in Echtzeit:</strong> AR kann potenzielle Gefahren erkennen und visuell hervorheben. Stell dir vor, ein Fußgänger betritt die Fahrbahn – dein Auto markiert ihn direkt in deinem Sichtfeld und gibt dir einen klaren Hinweis, bevor du ihn vielleicht selbst bemerkst. Auch Gefahren wie Glatteis oder Baustellen könnten direkt angezeigt werden.
                 </li>
                 <li>
-                    <strong>Barrierefreie Mobilität:</strong> Für Menschen, die nicht selbst fahren können, sei es wegen Alters, Behinderungen oder Krankheiten, könnten autonome Autos eine echte Befreiung sein. Plötzlich wird Mobilität für jeden zugänglich, unabhängig von Führerscheinen oder Reaktionsschnelligkeit.
+                    <strong>3. Assistenz beim Einparken:</strong> Mit AR wird das Einparken zum Kinderspiel. Die Technologie kann dir zeigen, wie viel Platz noch zu anderen Fahrzeugen oder Hindernissen ist, und die ideale Parkposition direkt auf das Display projizieren. Schluss mit Stress in engen Parkhäusern!
                 </li>
                 <li>
-                    <strong>Grüner unterwegs:</strong> Mit der richtigen Technologie könnten autonome Fahrzeuge den Verkehr flüssiger machen, Staus reduzieren und den Spritverbrauch optimieren. Und wenn sie dann noch elektrisch betrieben werden? Jackpot für die Umwelt! Weniger CO₂, mehr Lebensqualität.
+                    <strong>4. Unterstützung für autonomes Fahren:</strong> In Kombination mit autonomen Fahrzeugen könnte AR dir zeigen, welche Entscheidungen das Auto trifft. Zum Beispiel könnte es virtuelle Markierungen für den Sicherheitsabstand setzen oder anzeigen, wie andere Verkehrsteilnehmer erkannt werden. Das steigert Vertrauen und Transparenz in die Technologie.
                 </li>
                 <li>
-                    <strong>Städte neu erfinden:</strong> Man stelle sich Städte ohne überfüllte Parkplätze vor. Autonome Fahrzeuge könnten dazu führen, dass weniger Menschen eigene Autos besitzen, weil man sie einfach „teilen“ kann. Ein kurzer Klick in der App, und schon kommt ein selbstfahrendes Auto um die Ecke, um dich abzuholen. Das würde Platz schaffen – für Parks, Spielplätze und viel mehr Raum zum Leben.
+                    <strong>5. Individualisierte Fahrerlebnisse:</strong> Mit AR kannst du dein Fahrerlebnis personalisieren. Stell dir vor, du bekommst Echtzeit-Informationen über Sehenswürdigkeiten auf deiner Route, Empfehlungen für Restaurants oder Tankstellen, die direkt in dein Sichtfeld projiziert werden. Dein Auto wird zu einem digitalen Assistenten, der dich in jeder Situation unterstützt.
+                </li>
+                <li>
+                    <strong>6. Gaming und Entertainment für Beifahrer:</strong> AR beschränkt sich nicht nur auf die Fahrerperspektive. Für Beifahrer könnte die Technologie ein völlig neues Entertainment-Erlebnis bieten. Von interaktiven Spielen bis hin zu virtuellen Erkundungen von Städten – AR macht die Fahrt aufregender als je zuvor.
                 </li>
             </ul>
         </section>
 
         <section>
-            <h2>Herausforderungen auf dem Weg zur Zukunft</h2>
+            <h2>Vorteile von AR in Fahrzeugen</h2>
             <p>
-                Natürlich ist nicht alles ein Zuckerschlecken. Autonome Fahrzeuge stehen noch vor einigen Herausforderungen. Zum Beispiel: Was passiert, wenn ein selbstfahrendes Auto in einen Unfall verwickelt ist? Wer trägt die Verantwortung – der Hersteller, der Besitzer oder vielleicht niemand? Und dann ist da noch die Frage der Technik: Wie zuverlässig sind die Systeme bei schlechtem Wetter oder in chaotischen Verkehrssituationen?
+                Die Vorteile liegen auf der Hand:
             </p>
-            <p>
-                Ein weiteres Thema ist der Datenschutz. Autonome Autos sammeln Unmengen an Daten: Wo wir hinfahren, wann wir es tun, was wir dabei machen. Diese Informationen müssen sicher geschützt werden – sonst könnte der Traum vom autonomen Fahren schnell zum Albtraum werden.
-            </p>
-            <p>
-                Und ja, es gibt auch berechtigte Sorgen um Jobs. Taxifahrer, LKW-Fahrer oder Lieferanten – viele Berufe könnten durch autonome Fahrzeuge bedroht sein. Doch wie bei jeder technologischen Revolution gilt auch hier: Es werden neue Berufe entstehen, die heute noch niemand auf dem Schirm hat.
-            </p>
+            <ul>
+                <li><strong>Mehr Sicherheit:</strong> Indem AR den Blick des Fahrers auf die Straße lenkt und gleichzeitig wichtige Informationen einblendet, reduziert es Ablenkungen.</li>
+                <li><strong>Intuitiveres Fahren:</strong> Durch visuelle Hinweise wird die Interaktion mit Fahrzeugfunktionen einfacher und verständlicher.</li>
+                <li><strong>Besseres Fahrerlebnis:</strong> AR macht das Fahren nicht nur praktischer, sondern auch aufregender.</li>
+            </ul>
         </section>
 
         <section>
-            <h2>Die aufregende Reise beginnt jetzt</h2>
+            <h2>Das Auto der Zukunft – Realität trifft auf digitale Magie</h2>
             <p>
-                Autonome Fahrzeuge sind kein ferner Traum mehr – sie stehen praktisch vor unserer Haustür. Natürlich wird es noch eine Weile dauern, bis sie unseren Alltag komplett durchdrungen haben. Doch eines ist sicher: Sie werden kommen, und sie werden unsere Mobilität von Grund auf verändern.
+                Augmented Reality hat das Potenzial, unsere Mobilität grundlegend zu verändern. Sie macht das Autofahren nicht nur sicherer und effizienter, sondern schafft ein Erlebnis, das die Grenze zwischen Realität und Technologie verschwimmen lässt.
             </p>
             <p>
-                Stell dir eine Welt vor, in der es weniger Unfälle, weniger Stress und mehr Freiheit gibt. Eine Welt, in der Mobilität smart, nachhaltig und für alle zugänglich ist. Klingt das nicht fantastisch? Autonome Fahrzeuge könnten genau das ermöglichen – und unsere Straßen in Orte der Innovation und Möglichkeiten verwandeln.
+                Vielleicht sitzt du schon bald in einem Auto, das dir die Straße auf völlig neue Weise zeigt – interaktiv, informativ und faszinierend. Willkommen in der Zukunft, wo deine Windschutzscheibe mehr kann als je zuvor!
             </p>
-            <p>Die Reise beginnt jetzt. Und vielleicht sitzt du schon bald in einem Auto, das dein Leben nicht nur von A nach B bringt, sondern es auch ein Stück besser macht.</p>
         </section>
         </div>
 
@@ -103,10 +104,10 @@ function App() {
 
           </p>
           <ul>
-            <li>Würdest du einem autonomen Fahrzeug (Waymo), wie in dem Video zu sehen ist, vertrauen?</li>
-            <li>Inwiefern denkst du, dass autonome Fahrzeuge dein Leben bereichern könnten?</li>
-            <li>Angenommen, die Kosten eines autonomen Taxis wären gleich wie die Kosten für öffentliche Verkehrsmittel, wie Bus und Bahn. Für welches Transportmittel würdest du dich eher entscheiden und warum?</li>
-            <li>Fallen dir irgendwelche Nachteile mit autonomen Fahrzeugen ein, die dich vielleicht skeptisch machen?</li>
+            <li>Würdest du lieber ein Auto fahren, das AR Fähgkeiten besitzt, wie in dem Video zu sehen ist, oder ein herkömmliches Fahrzeug nutzen? Warum?</li>
+            <li>Denkst du, dass AR das Fahren interessanter, nützlicher oder sicher machen könnte?</li>
+            <li>Was müsste AR in Fahrzuegen bieten, damit es für dich ein Must-Have wäre?</li>
+            <li>Fallen dir irgendwelche Nachteile bezüglich AR in Fahrzuegen ein, die dich vielleicht skeptisch machen?</li>
           </ul>
         </div>
 
