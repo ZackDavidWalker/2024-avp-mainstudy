@@ -8,7 +8,7 @@
 }
 
 .App-header {
-  max-width: 600px;
+  max-width: 900px;
   margin: 0 auto;
   background: #fff;
   padding: 30px;
@@ -19,11 +19,22 @@
 h2 {
   color: #3d5a80;
   font-size: 1.8rem;
+  text-align: left;
 }
 
 p {
   font-size: 1rem;
   color: #555;
+  text-align: left;
+}
+
+#instruc {
+  color: red;
+  font-weight: bold;
+}
+
+ul, li {
+  text-align: left;
 }
 
 /* Video Container */
@@ -34,6 +45,7 @@ p {
 video {
   border-radius: 8px;
   border: 2px solid #3d5a80;
+  width: 100%;
 }
 
 /* Text Area */
