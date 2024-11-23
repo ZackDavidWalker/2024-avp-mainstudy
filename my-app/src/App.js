@@ -91,7 +91,7 @@ function App() {
 
         <div className="video-container">
           <video controls>
-            <source src="video-1.mp4" type="video/mp4" />
+            <source src="video-2.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </div>
